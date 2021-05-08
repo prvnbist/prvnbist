@@ -21,19 +21,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="prvnbist" height="30" width="40" /></a>
+<a href="https://codepen.io/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="prvnbist" height="30" width="40" /></a>
 <a href="https://dev.to/prvnbist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="prvnbist" height="30" width="40" /></a>
-<a href="https://twitter.com/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="prvnbist" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="prvnbist" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="prvnbist" height="30" width="40" /></a>
+<a href="https://twitter.com/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prvnbist" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prvnbist" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prvnbist" height="30" width="40" /></a>
 <a href="https://codesandbox.com/prvnbist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="prvnbist" height="30" width="40" /></a>
-<a href="https://instagram.com/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="prvnbist" height="30" width="40" /></a>
-<a href="https://dribbble.com/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="prvnbist" height="30" width="40" /></a>
-<a href="https://www.behance.net/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/behance.svg" alt="prvnbist" height="30" width="40" /></a>
-<a href="https://medium.com/@prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@prvnbist" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="prvnbist" height="30" width="40" /></a>
+<a href="https://instagram.com/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prvnbist" height="30" width="40" /></a>
+<a href="https://dribbble.com/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="prvnbist" height="30" width="40" /></a>
+<a href="https://www.behance.net/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="prvnbist" height="30" width="40" /></a>
+<a href="https://medium.com/@prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prvnbist" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prvnbist" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prvnbist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prvnbist" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="prvnbist" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prvnbist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prvnbist" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
