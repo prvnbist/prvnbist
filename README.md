@@ -2,7 +2,7 @@
 ## Hi 👋, I'm Praveen Bisht
 #### A front-end engineer with with experience in back-end and design based in New Delhi, India.
 
-<!-- ![prvnbist](https://komarev.com/ghpvc/?username=prvnbist&label=Profile%20views&color=0e75b6&style=flat) -->
+![prvnbist](https://komarev.com/ghpvc/?username=prvnbist&label=Profile%20views&color=0e75b6&style=flat)
 [![prvnbist](https://img.shields.io/twitter/follow/prvnbist?logo=twitter&style=flat)](https://twitter.com/prvnbist)
 
 [![prvnbist](https://github-profile-trophy.vercel.app/?username=prvnbist)](https://github.com/ryo-ma/github-profile-trophy)
